@@ -22,3 +22,4 @@ userForm.registerFormCallback = (data)=>{
     }
     ApiConnector.register(data, registerCallback);
 }
+
